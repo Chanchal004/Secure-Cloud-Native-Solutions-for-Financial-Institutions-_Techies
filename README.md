@@ -20,5 +20,5 @@ Boto3 is the Python SDK for interacting with AWS services. It provides an object
 
 ![Project Architecture]("C:\Users\chanc\Downloads\Techies.drawio (1).png")
 
-**Note:** Replace `path/to/your/architecture/image.png` with the actual path to your architecture image. Ensure the image file is in a format supported by GitHub (e.g., PNG, JPEG).
+
 
