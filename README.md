@@ -20,7 +20,7 @@ Boto3 is the Python SDK for interacting with AWS services. It provides an object
 
 
 ![Techies drawio (1)](https://github.com/Chanchal004/Secure-Cloud-Native-Solutions-for-Financial-Institutions-_Techies/assets/143996644/ed288df0-53c2-41f8-ac0b-4ec2bd9d9743)
-# Architecture Overview
+# Usecases
 
 ## Database Service (Amazon DynamoDB)
 A powerful NoSQL database service tailored for efficient storage and management of transaction data.
