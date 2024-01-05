@@ -27,3 +27,12 @@ Enforce network policies to maintain a zero-trust network security model.
 Choose secure cloud storage solutions with built-in encryption.
 Leverage cloud provider security tools and recommendations.
 Develop and regularly update an incident response plan tailored to cloud environments.
+libraries
+python (bycrypt)
+     Securely hashes passwords using the bcrypt algorithm, a password-hashing function designed to be slow and resistant to brute-force attacks.
+     Essential for protecting sensitive user data in applications,Bcrypt can handle passwords up to 72 characters.
+boto3
+     Boto3 is the Python SDK for interacting with AWS services. It provides an object-oriented API for creating, modifying, and managing resources across various AWS services.
+     Handle exceptions gracefully to ensure code robustness.
+     
+     
