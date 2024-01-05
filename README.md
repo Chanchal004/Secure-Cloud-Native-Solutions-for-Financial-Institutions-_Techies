@@ -27,7 +27,6 @@ Enforce network policies to maintain a zero-trust network security model.
 Choose secure cloud storage solutions with built-in encryption.
 Leverage cloud provider security tools and recommendations.
 Develop and regularly update an incident response plan tailored to cloud environments.
-libraries
 
 python (bycrypt):
 
