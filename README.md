@@ -18,7 +18,8 @@ Boto3 is the Python SDK for interacting with AWS services. It provides an object
 
 ### Architecture
 
-![Project Architecture]("C:\Users\chanc\Downloads\Techies.drawio (1).png")
+
+![Techies drawio (1)](https://github.com/Chanchal004/Secure-Cloud-Native-Solutions-for-Financial-Institutions-_Techies/assets/143996644/ed288df0-53c2-41f8-ac0b-4ec2bd9d9743)
 
 
 
