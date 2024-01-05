@@ -1,13 +1,24 @@
-**Welcome to the Secure Cloud-Native Solutions project by techies, dedicated to building robust, scalable, and secure cloud-native applications for the financial sector! This initiative tackles the ever-present challenges of data privacy, integrity, and compliance within the fast-moving cloud-native landscape.**
+# Welcome to the Secure Cloud-Native Solutions Project by Techies
 
-### Project Focus:
+Dedicated to building robust, scalable, and secure cloud-native applications for the financial sector! This initiative tackles the ever-present challenges of data privacy, integrity, and compliance within the fast-moving cloud-native landscape.
 
-We're developing a comprehensive **Cloud-Native Security Framework** encompassing the entire application lifecycle. This framework is anchored on the four pillars of cloud-native security: Code, Container, Cluster, and Cloud (the four C's).
+## Project Focus:
 
-### Libraries Used in the Code 
+We're developing a comprehensive **Cloud-Native Security Framework** encompassing the entire application lifecycle. This framework is anchored on the four pillars of cloud-native security: **Code**, **Container**, **Cluster**, and **Cloud** (the four C's).
 
-- **bcrypt:**
-  Securely hashes passwords using the bcrypt algorithm, a password-hashing function designed to be slow and resistant to brute-force attacks. Essential for protecting sensitive user data in applications. Bcrypt can handle passwords up to 72 characters.
+### Libraries Used in the Code
 
-- **boto3:**
-  Boto3 is the Python SDK for interacting with AWS services. It provides an object-oriented API for creating, modifying, and managing resources across various AWS services. Handle exceptions gracefully to ensure code robustness.
+**bcrypt**
+
+Securely hashes passwords using the bcrypt algorithm, a password-hashing function designed to be slow and resistant to brute-force attacks. Essential for protecting sensitive user data in applications. Bcrypt can handle passwords up to 72 characters.
+
+**boto3**
+
+Boto3 is the Python SDK for interacting with AWS services. It provides an object-oriented API for creating, modifying, and managing resources across various AWS services. Handle exceptions gracefully to ensure code robustness.
+
+### Architecture
+
+![Project Architecture]("C:\Users\chanc\Downloads\Techies.drawio (1).png")
+
+**Note:** Replace `path/to/your/architecture/image.png` with the actual path to your architecture image. Ensure the image file is in a format supported by GitHub (e.g., PNG, JPEG).
+
