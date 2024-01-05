@@ -20,6 +20,28 @@ Boto3 is the Python SDK for interacting with AWS services. It provides an object
 
 
 ![Techies drawio (1)](https://github.com/Chanchal004/Secure-Cloud-Native-Solutions-for-Financial-Institutions-_Techies/assets/143996644/ed288df0-53c2-41f8-ac0b-4ec2bd9d9743)
+# Architecture Overview
+
+## Database Service (Amazon DynamoDB)
+A NoSQL database service is used to store and manage transaction data.
+
+## Containerization (Docker)
+Application components are packaged into containers for portability, isolation, and efficient resource utilization.
+
+## Container Deployment (ECS)
+Containers are deployed and managed using Amazon Elastic Container Service (ECS), a highly scalable container orchestration service.
+
+## Cluster Management (EKS)
+Amazon Elastic Kubernetes Service (EKS) is used to manage the cluster of containers, providing features for scaling, self-healing, and load balancing.
+
+## Key Management Service (AWS KMS)
+Sensitive data is protected using AWS Key Management Service, which provides secure key storage and management.
+
+## Cloud Services (AWS)
+The application leverages various AWS cloud services, including S3 for storage, CloudWatch for monitoring, and potentially others.
+
+<!-- Add any additional comments or details about specific configurations, dependencies, or considerations for each component. -->
+
 
 
 
