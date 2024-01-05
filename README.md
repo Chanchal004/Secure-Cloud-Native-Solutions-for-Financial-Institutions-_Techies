@@ -28,6 +28,7 @@ Choose secure cloud storage solutions with built-in encryption.
 Leverage cloud provider security tools and recommendations.
 Develop and regularly update an incident response plan tailored to cloud environments.
 libraries
+
 python (bycrypt):
 
 Securely hashes passwords using the bcrypt algorithm, a password-hashing function designed to be slow and resistant to brute-force attacks.
